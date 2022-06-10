@@ -12,3 +12,5 @@ jobs:
       - name: Echo the message
         run: |
           echo "Hola!"
+      - name: Display the date
+        run: date
